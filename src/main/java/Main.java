@@ -70,5 +70,8 @@ public class Main {
     static void foo() {
         System.out.println("New FOO");
     }
+    
+    static void bar() {
+    }
 
 }
