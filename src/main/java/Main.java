@@ -66,4 +66,9 @@ public class Main {
     public static void sayMyName(String name) {
         System.out.println("Привет, " + name + "!");
     }
+    //Add new method
+    static void foo() {
+        System.out.println("New FOO");
+    }
+
 }
